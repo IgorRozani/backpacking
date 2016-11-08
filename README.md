@@ -7,6 +7,7 @@ Table of Contents
 * [Accommodation](#accommodation)
 * [House Sitting](#house-sitting)
 * [Volunteering](#volunteering)
+* [Temporary Work](#temporary-work)
 
 
 ##Accommodation
@@ -22,3 +23,6 @@ Table of Contents
 * [AIESEC](http://aiesec.org/) - Developing the leadership potential of youth through experiential learning, volunteer experiences and professional internships. Enabling both employers and organisations
 to connect with a global network of talent.
 * [Worldpackers](https://www.worldpackers.com/) - Find unique places around the world where you can exchange your skills for accommodation.
+
+##Temporary Work
+* [Find a crew](https://www.findacrew.net/) -  World's Largest Maritime Crew & Boat Network
