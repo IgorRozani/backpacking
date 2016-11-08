@@ -8,6 +8,7 @@ Table of Contents
 * [House Sitting](#house-sitting)
 * [Volunteering](#volunteering)
 * [Temporary Work](#temporary-work)
+* [Ride](#ride)
 
 
 ##Accommodation
@@ -26,3 +27,6 @@ to connect with a global network of talent.
 
 ##Temporary Work
 * [Find a crew](https://www.findacrew.net/) -  World's Largest Maritime Crew & Boat Network
+
+##Ride
+* [Bla Bla Car](https://www.blablacar.com) - Connecting people who need to travel with drivers who have empty seats
