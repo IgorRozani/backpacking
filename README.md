@@ -5,11 +5,16 @@ Table of Contents
 -----------------
 
 * [Accommodation](#accommodation)
+* [House Sitting](#house-sitting)
 * [Volunteering](#volunteering)
+
 
 ##Accommodation
 * [Couchsurfing](https://www.couchsurfing.com/) - Stay with Locals and Meet Travelers
 * [Airbnb](https://www.airbnb.com) - Live there. Book unique homes and experience a city like a local.
+
+##House Sitting
+* [Mind my house](http://www.mindmyhouse.com/)
 
 ##Volunteering
 * [WWOOF](http://wwoof.net/) - World Wide Opportunities on Organics Farms
