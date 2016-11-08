@@ -14,6 +14,7 @@ Table of Contents
 ##Accommodation
 * [Couchsurfing](https://www.couchsurfing.com/) - Stay with Locals and Meet Travelers
 * [Airbnb](https://www.airbnb.com) - Live there. Book unique homes and experience a city like a local.
+* [Trivago](http://www.trivago.com/) - Find your ideal hotel for the best price
 
 ##House Sitting
 * [Mind my house](http://www.mindmyhouse.com/)
