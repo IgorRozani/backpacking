@@ -1,5 +1,5 @@
 # Backpacking
-Websites useful for backpackers
+Websites useful for backpackers.
 
 Table of Contents
 -----------------
