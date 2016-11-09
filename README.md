@@ -6,8 +6,7 @@ Table of Contents
 
 * [Accommodation](#accommodation)
 * [House Sitting](#house-sitting)
-* [Volunteering](#volunteering)
-* [Temporary Work](#temporary-work)
+* [Volunteering or Temporary Work](#volunteering-or-temporary-work)
 * [Ride](#ride)
 
 
@@ -20,13 +19,11 @@ Table of Contents
 * [Mind my house](http://www.mindmyhouse.com/)
 * [Trusted House Sitters](https://www.trustedhousesitters.com)
 
-##Volunteering
+##Volunteering or Temporary Work
 * [WWOOF](http://wwoof.net/) - World Wide Opportunities on Organics Farms
 * [AIESEC](http://aiesec.org/) - Developing the leadership potential of youth through experiential learning, volunteer experiences and professional internships. Enabling both employers and organisations
 to connect with a global network of talent.
 * [Worldpackers](https://www.worldpackers.com/) - Find unique places around the world where you can exchange your skills for accommodation.
-
-##Temporary Work
 * [Find a crew](https://www.findacrew.net/) -  World's Largest Maritime Crew & Boat Network
 * [Jobbatical](https://jobbatical.com/) - Experience something new. Use your skills somewhere else for a while!
 
