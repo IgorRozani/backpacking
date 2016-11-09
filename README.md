@@ -28,6 +28,7 @@ to connect with a global network of talent.
 
 ##Temporary Work
 * [Find a crew](https://www.findacrew.net/) -  World's Largest Maritime Crew & Boat Network
+* [Jobbatical](https://jobbatical.com/) - Experience something new. Use your skills somewhere else for a while!
 
 ##Ride
 * [Bla Bla Car](https://www.blablacar.com) - Connecting people who need to travel with drivers who have empty seats
