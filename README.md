@@ -27,6 +27,7 @@ to connect with a global network of talent.
 * [Find a crew](https://www.findacrew.net/) -  World's Largest Maritime Crew & Boat Network
 * [Jobbatical](https://jobbatical.com/) - Experience something new. Use your skills somewhere else for a while!
 * [Workaway](https://www.workaway.info/) - Volunteering and cultural exchange around the world.
+* [Help Exchange (HelpX)](http://www.helpx.net/) - An online listing of host organic farms, non-organic farms, farmstays, homestays, ranches, lodges, B&Bs, backpackers hostels and even sailing boats who invite volunteer helpers to stay with them short-term in exchange for food and accommodation.
 
 ##Ride
 * [Bla Bla Car](https://www.blablacar.com) - Connecting people who need to travel with drivers who have empty seats
