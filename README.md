@@ -4,12 +4,15 @@ Websites useful for backpackers.
 Table of Contents
 -----------------
 
+* [Flights](#flights)
 * [Accommodation](#accommodation)
 * [House Sitting](#house-sitting)
 * [Volunteering or Temporary Work](#volunteering-or-temporary-work)
 * [Ride](#ride)
 * [Free Activities](#free-activities)
 
+##Flights
+* [Sky Scanner](https://www.skyscanner.net)
 
 ##Accommodation
 * [Couchsurfing](https://www.couchsurfing.com/) - Stay with Locals and Meet Travelers
