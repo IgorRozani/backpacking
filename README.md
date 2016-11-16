@@ -15,6 +15,7 @@ Table of Contents
 * [Airbnb](https://www.airbnb.com) - Live there. Book unique homes and experience a city like a local.
 * [Trivago](http://www.trivago.com/) - Find your ideal hotel for the best price
 * [Be Welcome](https://www.bewelcome.org/) - Step inside and invite travelers to your home, find hosts all over the world, and become part of our multicultural hospitality community.
+* [Warm Shower](https://www.warmshowers.org/) - A free worldwide hospitality exchange for touring cyclists.
 
 ##House Sitting
 * [Mind my house](http://www.mindmyhouse.com/)
