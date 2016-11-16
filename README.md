@@ -16,6 +16,7 @@ Table of Contents
 * [Trivago](http://www.trivago.com/) - Find your ideal hotel for the best price
 * [Be Welcome](https://www.bewelcome.org/) - Step inside and invite travelers to your home, find hosts all over the world, and become part of our multicultural hospitality community.
 * [Warm Shower](https://www.warmshowers.org/) - A free worldwide hospitality exchange for touring cyclists.
+* [The Hospitality Club](http://www.hospitalityclub.org/) - Our aim is to bring people together - hosts and guests, travelers and locals.
 
 ##House Sitting
 * [Mind my house](http://www.mindmyhouse.com/)
