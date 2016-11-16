@@ -8,6 +8,7 @@ Table of Contents
 * [House Sitting](#house-sitting)
 * [Volunteering or Temporary Work](#volunteering-or-temporary-work)
 * [Ride](#ride)
+* [Free Activities](#free-activities)
 
 
 ##Accommodation
@@ -36,3 +37,6 @@ to connect with a global network of talent.
 
 ##Ride
 * [Bla Bla Car](https://www.blablacar.com) - Connecting people who need to travel with drivers who have empty seats
+
+##Free Activities
+* [Free tour](https://www.freetour.com/) - Book budget and free tours with local guides in 80+ countries
