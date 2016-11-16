@@ -21,6 +21,7 @@ Table of Contents
 ##House Sitting
 * [Mind my house](http://www.mindmyhouse.com/)
 * [Trusted House Sitters](https://www.trustedhousesitters.com)
+* [House Carers](https://www.housecarers.com/)
 
 ##Volunteering or Temporary Work
 * [WWOOF](http://wwoof.net/) - World Wide Opportunities on Organics Farms
