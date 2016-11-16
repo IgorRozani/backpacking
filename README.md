@@ -41,3 +41,4 @@ to connect with a global network of talent.
 ##Free Activities
 * [Free tour](https://www.freetour.com/) - Book budget and free tours with local guides in 80+ countries
 * [Free tours by foot](http://www.freetoursbyfoot.com/) - Free Walking Tours of American and European Cities
+* [Wikiloc](http://www.wikiloc.com/) - A place to discover and share the best outdoor trails for hiking, cycling and many other activities
