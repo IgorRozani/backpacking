@@ -19,7 +19,7 @@ Table of Contents
 ### Flights
 * [Sky Scanner](https://www.skyscanner.net) - Become one of the over 40 million Skyscanner travelers who find flights for less!
 
-## Ride
+### Ride
 * [Bla Bla Car](https://www.blablacar.com) - Connecting people who need to travel with drivers who have empty seats.
 
 ## Accommodation
