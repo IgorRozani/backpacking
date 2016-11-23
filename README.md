@@ -1,5 +1,5 @@
 # Backpacking [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-Websites useful for backpackers.
+Websites and apps useful for backpackers.
 
 Table of Contents
 -----------------
@@ -12,6 +12,7 @@ Table of Contents
   * [Stay with locals](#stay-with-locals)
 * [House Sitting](#house-sitting)
 * [Volunteering or Temporary Work](#volunteering-or-temporary-work)
+* [Meet new people](#meet-new-people)
 * [Free Activities](#free-activities)
 
 ## Transport
@@ -49,6 +50,9 @@ Table of Contents
 * [Jobbatical](https://jobbatical.com/) - Experience something new. Use your skills somewhere else for a while!
 * [Workaway](https://www.workaway.info/) - Volunteering and cultural exchange around the world.
 * [Help Exchange (HelpX)](http://www.helpx.net/) - An online listing of host organic farms, non-organic farms, farmstays, homestays, ranches, lodges, B&Bs, backpackers hostels and even sailing boats who invite volunteer helpers to stay with them short-term in exchange for food and accommodation.
+
+## Meet new people
+* [Tinder](https://www.gotinder.com/)
 
 ## Free Activities
 * [Free tour](https://www.freetour.com/) - Book budget and free tours with local guides in 80+ countries.
