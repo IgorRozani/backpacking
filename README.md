@@ -51,7 +51,8 @@ Table of Contents
 * [Jobbatical](https://jobbatical.com/) - Experience something new. Use your skills somewhere else for a while!
 * [Workaway](https://www.workaway.info/) - Volunteering and cultural exchange around the world.
 * [Help Exchange (HelpX)](http://www.helpx.net/) - An online listing of host organic farms, non-organic farms, farmstays, homestays, ranches, lodges, B&Bs, backpackers hostels and even sailing boats who invite volunteer helpers to stay with them short-term in exchange for food and accommodation.
-* [Cruise ship jobs](https://www.allcruisejobs.com/) - Live on a luxury cruise ship and get paid for it!
+* [Cruise ship jobs](http://www.cruiseshipjob.com/) - Live on a luxury cruise ship and get paid for it!
+* [All cruise jobs](https://www.allcruisejobs.com/) - The global cruise job board
 
 ## Meet new people
 * [Tinder](https://www.gotinder.com/)
