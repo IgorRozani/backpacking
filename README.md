@@ -42,6 +42,7 @@ Table of Contents
 * [House Carers](https://www.housecarers.com/) - Join one of the fastest growing trends in the world today House sitting and Pet Sitting.
 * [Luxury House Sitting](http://www.luxuryhousesitting.com/) - Care for pets in exchange for a free retreat, locally or worldwide!
 * [Home Exchange](https://www.homeexchange.com/en/) - Temporary exchange your house with other people
+* [House Sitter](https://housesitter.com/) - Find House Sitting Jobs & House Sitters
 
 ## Volunteering or Temporary Work
 * [WWOOF](http://wwoof.net/) - World Wide Opportunities on Organics Farms.
