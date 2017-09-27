@@ -53,6 +53,7 @@ Table of Contents
 * [Help Exchange (HelpX)](http://www.helpx.net/) - An online listing of host organic farms, non-organic farms, farmstays, homestays, ranches, lodges, B&Bs, backpackers hostels and even sailing boats who invite volunteer helpers to stay with them short-term in exchange for food and accommodation.
 * [Cruise ship jobs](http://www.cruiseshipjob.com/) - Live on a luxury cruise ship and get paid for it!
 * [All cruise jobs](https://www.allcruisejobs.com/) - The global cruise job board
+* [HelpStay](https://helpstay.com/) - Give a little help, stay for free
 
 ## Meet new people
 * [Tinder](https://www.gotinder.com/)
