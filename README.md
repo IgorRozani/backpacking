@@ -14,6 +14,8 @@ Table of Contents
 * [Volunteering or Temporary Work](#volunteering-or-temporary-work)
 * [Meet new people](#meet-new-people)
 * [Free Activities](#free-activities)
+* [Tours](#tours)
+
 
 ## Transport
 
